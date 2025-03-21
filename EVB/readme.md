@@ -16,3 +16,5 @@ Great for automotive UI/UX design projects.
 
 Author:
 Subhro Ghosh
+
+![Design Preview](./EVB.jpg)
