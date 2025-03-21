@@ -16,3 +16,5 @@ Can be used as an e-learning platform prototype or UI inspiration.
 
 Author:
 Subhro Ghosh
+
+![Design Preview](./educational-ui.jpg)
