@@ -16,3 +16,5 @@ Perfect for web design inspiration and professional portfolios.
 
 Author:
 Subhro Ghosh
+
+![Design Preview](./website-ui.jpg)
