@@ -16,3 +16,5 @@ Ideal for fashion brand UI prototypes and e-commerce platforms.
 
 Author:
 Subhro Ghosh
+
+![Design Preview](./NIKE-CONCEPT.jpg)
