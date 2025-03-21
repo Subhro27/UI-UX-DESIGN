@@ -17,3 +17,5 @@ Perfect for sneaker brand UI concepts or e-commerce presentations.
 
 Author:
 Subhro Ghosh
+
+![Design Preview](./AIR-MAX.jpg)
