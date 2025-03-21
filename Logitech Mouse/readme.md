@@ -16,3 +16,5 @@ Useful for e-commerce and tech product UI inspiration.
 
 Author:
 Subhro Ghosh
+
+![Design Preview](./LOGITECH-MOUSE.jpg)
