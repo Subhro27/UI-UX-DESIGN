@@ -16,3 +16,5 @@ Best suited for gaming peripherals UI concepts and branding.
 
 Author:
 Subhro Ghosh
+
+![Design Preview](./REDGEAR.jpg)
