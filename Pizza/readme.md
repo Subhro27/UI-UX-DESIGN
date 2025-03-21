@@ -16,3 +16,8 @@ Ideal for showcasing **restaurant or food delivery UI concepts**, emphasizing us
 
 Author:
 Subhro Ghosh
+
+Prototype Link:
+https://www.figma.com/proto/WUeJWXMVPpTdVwE4syhYgB/portfolio?page-id=33%3A2&node-id=33-3&p=f&viewport=136%2C382%2C0.13&t=lFWRzMZXzXgSxalT-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=33%3A3
+
+![Design Preview](./pizza.jpg)
