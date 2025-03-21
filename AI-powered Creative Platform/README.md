@@ -17,4 +17,4 @@ Ideal for showcasing AI-driven design concepts and creative workflow enhancement
 Author:
 Subhro Ghosh
 
-![Design Preview](./aipoweredcreativeproject.png)
+![Design Preview](./ai powered creative project.png)
