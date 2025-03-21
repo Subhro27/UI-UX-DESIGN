@@ -161,3 +161,5 @@ These designs are for **personal and educational use**. For commercial use, plea
 
 ---
   
+![UI-UX DESIGN](https://github.com/user-attachments/assets/a3e549ae-ab5d-49d6-b084-a0568a59ad72)
+
