@@ -22,3 +22,4 @@ Subhro Ghosh
 Prototype Link:
 https://www.figma.com/proto/WUeJWXMVPpTdVwE4syhYgB/portfolio?page-id=201%3A6&node-id=201-100&p=f&viewport=290%2C256%2C0.15&t=CH5Iegh6lZmbTN0m-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=201%3A100
 
+![Design Preview](./icecream.jpg)
