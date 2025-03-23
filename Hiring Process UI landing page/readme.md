@@ -17,3 +17,4 @@ Ideal for showcasing AI-driven design concepts and creative workflow enhancement
 Author:
 Subhro Ghosh
 
+![Design Preview](./hiring-process.jpg)
