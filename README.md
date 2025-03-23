@@ -149,6 +149,22 @@ Perfect for **restaurant websites or food delivery apps**, enhancing customer in
 
 ---
 
+### 🔟 **Hiring Process UI**
+A conceptual UI/UX design focused on AI-driven creative workflows, enhancing user experience through automation and intuitive design.
+
+**🔹 Features:**
+- AI-enhanced user interface
+- Seamless creative process integration
+- Minimalistic and modern design
+
+**🔹 Technologies Used:**
+- Figma
+
+**🔹 Usage:**
+Ideal for showcasing AI-driven design concepts and creative workflow enhancements.
+
+---
+
 ## 🚀 Getting Started  
 These UI/UX designs are available for reference and further development. You can explore the **Figma files** and modify them based on your project requirements.  
 
