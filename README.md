@@ -5,7 +5,7 @@ This repository showcases a collection of **high-fidelity UI/UX designs**, each 
 
 ## 🖌️ Projects  
 
-### 1️⃣ **AI-Powered Creative Platform**  
+### **AI-Powered Creative Platform**  
 A conceptual UI/UX design focused on AI-driven creative workflows, enhancing user experience through automation and intuitive design.  
 
 **🔹 Features:**  
@@ -21,7 +21,7 @@ Ideal for showcasing **AI-driven design concepts** and creative workflow enhance
 
 ---
 
-### 2️⃣ **Website UI Design**  
+###  **Website UI Design**  
 A modern and responsive **website interface** with a sleek layout, perfect for brands or businesses.  
 
 **🔹 Features:**  
@@ -37,7 +37,7 @@ Suitable for **corporate websites, landing pages, and brand portfolios**.
 
 ---
 
-### 3️⃣ **Nike Air Max UI**  
+###  **Nike Air Max UI**  
 A visually compelling product UI concept showcasing the **Nike Air Max** series in an interactive and engaging way.  
 
 **🔹 Features:**  
@@ -53,7 +53,7 @@ Ideal for **e-commerce platforms and sneaker brand websites**.
 
 ---
 
-### 4️⃣ **Nike Concept UI**  
+###  **Nike Concept UI**  
 A unique **Nike store concept UI**, offering an immersive experience for sneaker enthusiasts.  
 
 **🔹 Features:**  
@@ -69,7 +69,7 @@ Perfect for **sportswear and footwear e-commerce platforms**.
 
 ---
 
-### 5️⃣ **EVB (Electric Vehicle Brand) UI**  
+###  **EVB (Electric Vehicle Brand) UI**  
 A **futuristic UI design** concept for an Electric Vehicle (EV) brand, highlighting sustainability and performance.  
 
 **🔹 Features:**  
@@ -85,7 +85,7 @@ Great for **EV companies and automotive brands** looking for a modern web presen
 
 ---
 
-### 6️⃣ **Logitech Mouse UI**  
+###  **Logitech Mouse UI**  
 A product showcase UI design for **Logitech gaming mice**, optimized for an engaging shopping experience.  
 
 **🔹 Features:**  
@@ -101,7 +101,7 @@ Best suited for **gaming peripherals and tech product websites**.
 
 ---
 
-### 7️⃣ **Educational UI**  
+###  **Educational UI**  
 A user-friendly **educational platform UI** that enhances the online learning experience.  
 
 **🔹 Features:**  
@@ -117,7 +117,7 @@ Perfect for **e-learning platforms and online course providers**.
 
 ---
 
-### 8️⃣ **RedGear UI**  
+###  **RedGear UI**  
 A **gaming UI concept** designed for **RedGear**, featuring a bold and immersive interface.  
 
 **🔹 Features:**  
@@ -133,7 +133,7 @@ Ideal for **gaming accessory brands and e-commerce platforms**.
 
 ---
 
-### 9️⃣ **Pizza UI Design**  
+###  **Pizza UI Design**  
 A visually appealing and interactive **food ordering interface**, crafted for an engaging pizza ordering experience.  
 
 **🔹 Features:**  
@@ -149,7 +149,7 @@ Perfect for **restaurant websites or food delivery apps**, enhancing customer in
 
 ---
 
-### 🔟 **Hiring Process UI**
+### **Hiring Process UI**
 A conceptual UI/UX design focused on AI-driven creative workflows, enhancing user experience through automation and intuitive design.
 
 **🔹 Features:**
@@ -162,6 +162,24 @@ A conceptual UI/UX design focused on AI-driven creative workflows, enhancing use
 
 **🔹 Usage:**
 Ideal for **showcasing AI-driven design concepts and creative workflow enhancements.**
+
+---
+
+### **Ice Cream Packaging UI Design    
+A conceptual **UI/UX design** for ice cream packaging, combining **vibrant visuals** with a structured layout to enhance **product appeal and brand identity**.  
+
+**🔹Features:**  
+- Unique packaging design for **four distinct flavors**  
+- Bold, modern **typography** for easy readability  
+-  High-quality **fruit imagery** for realistic representation  
+-  **Color-coded themes** for each flavor  
+-  Balanced composition of **packaging mockups** and ice cream bar visuals  
+
+**🔹 Technology Used:**  
+- Figma 
+
+**🔹Usage:**  
+Ideal for **branding and packaging presentations, marketing materials, and concept approvals** for ice cream product designs.
 
 ---
 
