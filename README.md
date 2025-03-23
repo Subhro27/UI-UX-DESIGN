@@ -161,7 +161,7 @@ A conceptual UI/UX design focused on AI-driven creative workflows, enhancing use
 - Figma
 
 **🔹 Usage:**
-Ideal for showcasing AI-driven design concepts and creative workflow enhancements.
+Ideal for **showcasing AI-driven design concepts and creative workflow enhancements.**
 
 ---
 
