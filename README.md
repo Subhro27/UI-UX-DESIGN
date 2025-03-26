@@ -183,6 +183,22 @@ Ideal for **branding and packaging presentations, marketing materials, and conce
 
 ---
 
+## Donut Themed Design
+A visually appealing donut-themed design featuring different flavors with vibrant backgrounds. This design can be used for creative projects, UI inspiration, or promotional materials.
+
+## Features:
+- High-quality food photography
+- Colorful and engaging design
+- Minimalistic and modern aesthetic
+
+## Technologies Used:
+- Figma
+
+## Usage:
+**Ideal for use in creative design projects, social media content, marketing materials, and UI/UX inspiration.**
+
+---
+
 ## 🚀 Getting Started  
 These UI/UX designs are available for reference and further development. You can explore the **Figma files** and modify them based on your project requirements.  
 
