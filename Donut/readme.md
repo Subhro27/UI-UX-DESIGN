@@ -20,4 +20,4 @@ Ideal for use in creative design projects, social media content, marketing mater
 ## Prototype Link:
 https://www.figma.com/proto/WUeJWXMVPpTdVwE4syhYgB/portfolio?page-id=89%3A2&node-id=89-3&p=f&viewport=414%2C115%2C0.19&t=ixiqNJYOmsQi4xx8-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=89%3A3
 
-
+![Design Preview](./DONUTS.jpg)
