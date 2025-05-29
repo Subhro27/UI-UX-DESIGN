@@ -2,7 +2,7 @@
 
 A modern and visually engaging **juice product website UI** designed in **Figma**. This project features a sleek, minimal layout with vibrant colors and a working prototype. It showcases four product flavors with seamless interaction and clean transitions.
 
-![DesignPreview](./FRESH&JUICY.jpg)
+![Design Preview](./FRESH&JUICY.jpg)
 
 ## ✨ Features
 
