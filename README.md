@@ -199,6 +199,26 @@ A visually appealing donut-themed design featuring different flavors with vibran
 
 ---
 
+# 🥤 FRESH & JUICY - Juice Product Website UI
+
+A modern and visually engaging **juice product website UI** designed in **Figma**. This project features a sleek, minimal layout with vibrant colors and a working prototype. It showcases four product flavors with seamless interaction and clean transitions.
+
+
+## ✨ Features
+
+- 🍓 Modern, clean layout for juice product presentation
+- 🎨 Distinct sections for each flavor: Green Smoothie, Berry Smoothie, Orange Mix, Strawberry Mix
+- 🧃 Color-coded product highlights and transitions
+- ✅ Fully interactive **working prototype** in Figma
+- 📱 Responsive layout concept for web platforms
+
+## 🛠 Built With
+
+- 🖌️ **Figma** - UI/UX design and prototyping tool
+- 🎞️ Figma Interactive Prototyping - For click-through demo experience
+
+---
+
 ## 🚀 Getting Started  
 These UI/UX designs are available for reference and further development. You can explore the **Figma files** and modify them based on your project requirements.  
 
