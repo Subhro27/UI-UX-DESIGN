@@ -165,7 +165,7 @@ Ideal for **showcasing AI-driven design concepts and creative workflow enhanceme
 
 ---
 
-### **Ice Cream Packaging UI Design    
+### Ice Cream Packaging UI Design    
 A conceptual **UI/UX design** for ice cream packaging, combining **vibrant visuals** with a structured layout to enhance **product appeal and brand identity**.  
 
 **🔹Features:**  
@@ -199,23 +199,21 @@ A visually appealing donut-themed design featuring different flavors with vibran
 
 ---
 
-# 🥤 FRESH & JUICY - Juice Product Website UI
+#  FRESH & JUICY - Juice Product Website UI
 
 A modern and visually engaging **juice product website UI** designed in **Figma**. This project features a sleek, minimal layout with vibrant colors and a working prototype. It showcases four product flavors with seamless interaction and clean transitions.
 
 
-## ✨ Features
+## 🔹 Features
 
-- 🍓 Modern, clean layout for juice product presentation
-- 🎨 Distinct sections for each flavor: Green Smoothie, Berry Smoothie, Orange Mix, Strawberry Mix
-- 🧃 Color-coded product highlights and transitions
-- ✅ Fully interactive **working prototype** in Figma
-- 📱 Responsive layout concept for web platforms
+-  Modern, clean layout for juice product presentation
+-  Distinct sections for each flavor: Green Smoothie, Berry Smoothie, Orange Mix, Strawberry Mix
+-  Color-coded product highlights and transitions
+-  Fully interactive **working prototype** in Figma
+-  Responsive layout concept for web platforms
 
-## 🛠 Built With
-
-- 🖌️ **Figma** - UI/UX design and prototyping tool
-- 🎞️ Figma Interactive Prototyping - For click-through demo experience
+## Technologies Used:
+- Figma
 
 ---
 
